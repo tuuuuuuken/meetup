@@ -1,4 +1,6 @@
-# # Laravelソースコードリーディング
+# Laravelソースコードリーディング
+
+---
 
 ## アジェンダ
 - この勉強会でのゴール
@@ -8,12 +10,15 @@
 	- laravel/laravelとlaravel/frameworkの違い
 - PHPのマジックメソッドについて
 	- `__call`, `__callStatic`, `__get`, `__set`
+---
 - PHPStormを使って実際に読んでいく
 	- laravel/laravel
 		- make:auth
 	- laravel/framework
 		- 何にしよう…
 - まとめ
+
+---
 
 ## この勉強会でのゴール
 1. 
