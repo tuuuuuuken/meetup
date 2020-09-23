@@ -43,3 +43,5 @@ GASとclaspを使ってゴミボットを作ってみました。
 すみません、時間が足りなかったので書けませんでした
 
 ---
+
+![てへぺろ](https://3.bp.blogspot.com/-UIJJgNIW0Kg/Viipfnqvs8I/AAAAAAAAz5w/IP9_-9EASvo/s800/tehepero2_youngman.png)
