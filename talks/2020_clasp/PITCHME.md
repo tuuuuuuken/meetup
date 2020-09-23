@@ -1,4 +1,4 @@
-# GASとclaspで作る簡単Slackボット
+## GASとclaspで作る簡単Slackボット
 
 GASとclaspを使ってゴミボットを作ってみました。
 今回はそのGASとclaspについて紹介しようと思います。
