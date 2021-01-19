@@ -4,11 +4,10 @@
 ### 目標
 
 - Kotlinに興味を持ってもらう
-- (できれば)Kotlinを書ける人が増えてほしい
+- (できれば)Kotlinを書く人が増えてほしい
 - (ゆくゆくは)会社でサーバーサイドKotlinを導入する
 
 ---
-
 ### 話すこと
 
 - Kotoinって何?
@@ -40,6 +39,10 @@
 
 ---
 
+- Android
+- サーバーサイド(JVM)
+- フロントエンド(Kotlin/JS)
+- ネイティブアプリ(Kotlin/Native)
 
 ---
 ### Kotlinの何がいいの?
@@ -59,7 +62,37 @@ val lang: String = null
 val language: String? = null
 ```
 
+---
 
+- Javaの資産を活用できる
 
+```
+import java.util.*
+
+val javaArray = ArrayList<Int>()
+
+```
+
+- その逆も可能(JavaからKotlinの呼び出し)
 
 ---
+
+- コードがシンプル
+    - デフォルトのアクセス修飾子がpublic
+    - 型推論
+    - セミコロン不要
+    - データクラス
+    - インスタンス生成時のnewキーワードが不要
+
+etc...
+
+---
+
+- JetBrainsが開発しているのでIntelliJで書きやすい
+
+---
+
+終わり
+
+---
+
