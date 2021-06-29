@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # GASとclaspで作る簡単Slackボット
 
 ---
